@@ -73,7 +73,6 @@ Launch a simulation into an "Active Farm cycle". The AI automatically generates 
    \`\`\`
 
 ## 📚 Future Roadmap
-- Implementation of IoT sensor integration (MQTT) to ingest live pH/EC telemetry instead of dragging simulation sliders.
 - Expanded crop catalog including root-based aeroponic models.
 - Supply chain APIs to dynamically pull localized wholesale crop prices.
 
